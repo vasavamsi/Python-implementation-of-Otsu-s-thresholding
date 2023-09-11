@@ -13,3 +13,11 @@ _Step 2_: calculate the histogram profile and normalize.
 _Step 3_: Multiply the histogram values with their corresponding pixel values.
 
 _Step 4_: Calculate the in between variance for each pixel.
+
+_Step 5_: Select the pixel value with maximum variance as the threshold to binarize the image. 
+
+For the multi-thresholding, we further consider more than one pixel value and calculate the in between variances using. My code works for the multi-thresholding with 2 and 3 levels of thresholding.
+
+## Results 
+
+![results gif](https://github.com/vasavamsi/https-github.com-vasavamsi-Python-implementation-of-Otsu-s-thresholding/assets/58003228/a246b0e3-c25a-4be4-aaa1-4f74df2fb961)

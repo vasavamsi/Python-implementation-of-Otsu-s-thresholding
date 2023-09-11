@@ -12,4 +12,4 @@ _Step 2_: calculate the histogram profile and normalize.
 
 _Step 3_: Multiply the histogram values with their corresponding pixel values.
 
-_Step 4_: Calculate the in between variance for each pixel using \ref{single}.
+_Step 4_: Calculate the in between variance for each pixel.

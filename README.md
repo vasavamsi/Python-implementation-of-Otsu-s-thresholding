@@ -21,3 +21,5 @@ For the multi-thresholding, we further consider more than one pixel value and ca
 ## Results 
 
 ![results gif](https://github.com/vasavamsi/https-github.com-vasavamsi-Python-implementation-of-Otsu-s-thresholding/assets/58003228/a246b0e3-c25a-4be4-aaa1-4f74df2fb961)
+
+#MATLAB Implementation of the Otsu Algorithm is provided [here](https://github.com/vasavamsi/MATLAB-Implementation-of-Otsu-s-Thresholding-Algorithm)
